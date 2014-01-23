@@ -1,0 +1,8 @@
+C:\Users\Pryanik\documents\visual studio 2010\Projects\ThreadSearch\ThreadSearch\obj\x86\Debug\WindowsFormsApplication1.FormApp.resources
+C:\Users\Pryanik\documents\visual studio 2010\Projects\ThreadSearch\ThreadSearch\obj\x86\Debug\WindowsFormsApplication1.Selector.resources
+C:\Users\Pryanik\documents\visual studio 2010\Projects\ThreadSearch\ThreadSearch\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pryanik\documents\visual studio 2010\Projects\ThreadSearch\ThreadSearch\obj\x86\Debug\ThreadSearch.csproj.GenerateResource.Cache
+C:\Users\Pryanik\documents\visual studio 2010\Projects\ThreadSearch\ThreadSearch\bin\Debug\ThreadSearch.exe
+C:\Users\Pryanik\documents\visual studio 2010\Projects\ThreadSearch\ThreadSearch\bin\Debug\ThreadSearch.pdb
+C:\Users\Pryanik\documents\visual studio 2010\Projects\ThreadSearch\ThreadSearch\obj\x86\Debug\ThreadSearch.exe
+C:\Users\Pryanik\documents\visual studio 2010\Projects\ThreadSearch\ThreadSearch\obj\x86\Debug\ThreadSearch.pdb
